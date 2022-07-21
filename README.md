@@ -1,1 +1,1 @@
-# mahvimconfig
+# vimconfig
