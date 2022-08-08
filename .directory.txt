@@ -1,0 +1,1 @@
+.config/nvim/ copy and paste the files
