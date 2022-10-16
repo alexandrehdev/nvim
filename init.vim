@@ -15,8 +15,8 @@ inoremap <C-P> <ESC>:call PhpDocSingle()<CR>
 nnoremap <C-P> :call PhpDocSingle()<CR>
 vnoremap <C-P> :call PhpDocRange()<CR>
 
-
-nnoremap <leader>ff <cmd>Telescope find_files<cr>
+nnoremap <C-i> :terminal<cr>
+nnoremap <C-f> :Telescope find_files<cr>
 nnoremap <leader>fg <cmd>Telescope live_grep<cr>
 nnoremap <leader>fb <cmd>Telescope buffers<cr>
 nnoremap <leader>fh <cmd>Telescope help_tags<cr>
